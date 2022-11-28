@@ -19,19 +19,29 @@ public class SqlRequest {
         String city = (String) obj.get("city");
         String age = (String) obj.get("age");
         StringBuilder builder = new StringBuilder(beginSQL);
+        boolean flag = false;
         if (!Objects.equals(name, "null")){
             builder.append(" name=").append(name);
+            flag = true;
         }
         if (!Objects.equals(country, "null")){
-            builder.append( " AND");
+            if (flag){
+                builder.append( " AND");
+            }
             builder.append(" country=").append(country);
+            flag = true;
         }
         if (!Objects.equals(city, "null")){
-            builder.append( " AND");
+            if (flag){
+                builder.append( " AND");
+            }
             builder.append(" city=").append(city);
+            flag = true;
         }
         if (!Objects.equals(age, "null")){
-            builder.append( " AND");
+            if (flag){
+                builder.append( " AND");
+            }
             builder.append(" age=").append(age);
         }
         builder.append(";");
