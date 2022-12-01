@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-12-01T13:27:15.764089300Z</date>
+  <millis>1669901235764</millis>
+  <nanos>89300</nanos>
+  <sequence>0</sequence>
+  <logger>Calculator</logger>
+  <level>INFO</level>
+  <class>Calculator</class>
+  <method>calculatorDouble</method>
+  <thread>1</thread>
+  <message>Начало работы калькулятора</message>
+</record>
+<record>
+  <date>2022-12-01T13:27:22.776670600Z</date>
+  <millis>1669901242776</millis>
+  <nanos>670600</nanos>
+  <sequence>1</sequence>
+  <logger>Calculator</logger>
+  <level>INFO</level>
+  <class>Calculator</class>
+  <method>calculatorDouble</method>
+  <thread>1</thread>
+  <message>Пользователь выбрал операцию сложение</message>
+</record>
+<record>
+  <date>2022-12-01T13:27:26.370770800Z</date>
+  <millis>1669901246370</millis>
+  <nanos>770800</nanos>
+  <sequence>2</sequence>
+  <logger>Calculator</logger>
+  <level>INFO</level>
+  <class>Calculator</class>
+  <method>calculatorDouble</method>
+  <thread>1</thread>
+  <message>пользователь ввел 2 и 5</message>
+</record>
+<record>
+  <date>2022-12-01T13:27:26.398755200Z</date>
+  <millis>1669901246398</millis>
+  <nanos>755200</nanos>
+  <sequence>3</sequence>
+  <logger>Calculator</logger>
+  <level>INFO</level>
+  <class>Calculator</class>
+  <method>calculatorDouble</method>
+  <thread>1</thread>
+  <message>Результат сложения 2 и 5 равено 7,000000</message>
+</record>
+<record>
+  <date>2022-12-01T13:27:35.034203100Z</date>
+  <millis>1669901255034</millis>
+  <nanos>203100</nanos>
+  <sequence>4</sequence>
+  <logger>Calculator</logger>
+  <level>INFO</level>
+  <class>Calculator</class>
+  <method>calculatorDouble</method>
+  <thread>1</thread>
+  <message>Выход из программы</message>
+</record>
+</log>

@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-12-01T13:39:07.575806500Z</date>
+  <millis>1669901947575</millis>
+  <nanos>806500</nanos>
+  <sequence>0</sequence>
+  <logger>BubbleSort</logger>
+  <level>INFO</level>
+  <class>BubbleSort</class>
+  <method>getSortedArray</method>
+  <thread>1</thread>
+  <message>произошел обмен 1 и 10</message>
+</record>
+<record>
+  <date>2022-12-01T13:39:07.661753900Z</date>
+  <millis>1669901947661</millis>
+  <nanos>753900</nanos>
+  <sequence>1</sequence>
+  <logger>BubbleSort</logger>
+  <level>INFO</level>
+  <class>BubbleSort</class>
+  <method>getSortedArray</method>
+  <thread>1</thread>
+  <message>произошел обмен 12 и 23</message>
+</record>
+<record>
+  <date>2022-12-01T13:39:07.665752Z</date>
+  <millis>1669901947665</millis>
+  <nanos>752000</nanos>
+  <sequence>2</sequence>
+  <logger>BubbleSort</logger>
+  <level>INFO</level>
+  <class>BubbleSort</class>
+  <method>getSortedArray</method>
+  <thread>1</thread>
+  <message>произошел обмен 0 и 45</message>
+</record>
+<record>
+  <date>2022-12-01T13:39:07.667749900Z</date>
+  <millis>1669901947667</millis>
+  <nanos>749900</nanos>
+  <sequence>3</sequence>
+  <logger>BubbleSort</logger>
+  <level>INFO</level>
+  <class>BubbleSort</class>
+  <method>getSortedArray</method>
+  <thread>1</thread>
+  <message>произошел обмен 79 и 200</message>
+</record>
+<record>
+  <date>2022-12-01T13:39:07.669750100Z</date>
+  <millis>1669901947669</millis>
+  <nanos>750100</nanos>
+  <sequence>4</sequence>
+  <logger>BubbleSort</logger>
+  <level>INFO</level>
+  <class>BubbleSort</class>
+  <method>getSortedArray</method>
+  <thread>1</thread>
+  <message>произошел обмен 23 и 200</message>
+</record>
+<record>
+  <date>2022-12-01T13:39:07.671748200Z</date>
+  <millis>1669901947671</millis>
+  <nanos>748200</nanos>
+  <sequence>5</sequence>
+  <logger>BubbleSort</logger>
+  <level>INFO</level>
+  <class>BubbleSort</class>
+  <method>getSortedArray</method>
+  <thread>1</thread>
+  <message>произошел обмен 46 и 200</message>
+</record>
+<record>
+  <date>2022-12-01T13:39:07.672747600Z</date>
+  <millis>1669901947672</millis>
+  <nanos>747600</nanos>
+  <sequence>6</sequence>
+  <logger>BubbleSort</logger>
+  <level>INFO</level>
+  <class>BubbleSort</class>
+  <method>getSortedArray</method>
+  <thread>1</thread>
+  <message>произошел обмен 123 и 200</message>
+</record>
+<record>
+  <date>2022-12-01T13:39:07.674746200Z</date>
+  <millis>1669901947674</millis>
+  <nanos>746200</nanos>
+  <sequence>7</sequence>
+  <logger>BubbleSort</logger>
+  <level>INFO</level>
+  <class>BubbleSort</class>
+  <method>getSortedArray</method>
+  <thread>1</thread>
+  <message>произошел обмен 1 и 200</message>
+</record>
+<record>
+  <date>2022-12-01T13:39:07.676744900Z</date>
+  <millis>1669901947676</millis>
+  <nanos>744900</nanos>
+  <sequence>8</sequence>
+  <logger>BubbleSort</logger>
+  <level>INFO</level>
+  <class>BubbleSort</class>
+  <method>getSortedArray</method>
+  <thread>1</thread>
+  <message>произошел обмен 1 и 5</message>
+</record>
+<record>
+  <date>2022-12-01T13:39:07.678742900Z</date>
+  <millis>1669901947678</millis>
+  <nanos>742900</nanos>
+  <sequence>9</sequence>
+  <logger>BubbleSort</logger>
+  <level>INFO</level>
+  <class>BubbleSort</class>
+  <method>getSortedArray</method>
+  <thread>1</thread>
+  <message>произошел обмен 0 и 23</message>
+</record>
+<record>
+  <date>2022-12-01T13:39:07.679742700Z</date>
+  <millis>1669901947679</millis>
+  <nanos>742700</nanos>
+  <sequence>10</sequence>
+  <logger>BubbleSort</logger>
+  <level>INFO</level>
+  <class>BubbleSort</class>
+  <method>getSortedArray</method>
+  <thread>1</thread>
+  <message>произошел обмен 23 и 79</message>
+</record>
+<record>
+  <date>2022-12-01T13:39:07.681741Z</date>
+  <millis>1669901947681</millis>
+  <nanos>741000</nanos>
+  <sequence>11</sequence>
+  <logger>BubbleSort</logger>
+  <level>INFO</level>
+  <class>BubbleSort</class>
+  <method>getSortedArray</method>
+  <thread>1</thread>
+  <message>произошел обмен 46 и 79</message>
+</record>
+<record>
+  <date>2022-12-01T13:39:07.683740200Z</date>
+  <millis>1669901947683</millis>
+  <nanos>740200</nanos>
+  <sequence>12</sequence>
+  <logger>BubbleSort</logger>
+  <level>INFO</level>
+  <class>BubbleSort</class>
+  <method>getSortedArray</method>
+  <thread>1</thread>
+  <message>произошел обмен 1 и 123</message>
+</record>
+<record>
+  <date>2022-12-01T13:39:07.684739400Z</date>
+  <millis>1669901947684</millis>
+  <nanos>739400</nanos>
+  <sequence>13</sequence>
+  <logger>BubbleSort</logger>
+  <level>INFO</level>
+  <class>BubbleSort</class>
+  <method>getSortedArray</method>
+  <thread>1</thread>
+  <message>произошел обмен 1 и 3</message>
+</record>
+<record>
+  <date>2022-12-01T13:39:07.686738300Z</date>
+  <millis>1669901947686</millis>
+  <nanos>738300</nanos>
+  <sequence>14</sequence>
+  <logger>BubbleSort</logger>
+  <level>INFO</level>
+  <class>BubbleSort</class>
+  <method>getSortedArray</method>
+  <thread>1</thread>
+  <message>произошел обмен 0 и 12</message>
+</record>
+<record>
+  <date>2022-12-01T13:39:07.687737800Z</date>
+  <millis>1669901947687</millis>
+  <nanos>737800</nanos>
+  <sequence>15</sequence>
+  <logger>BubbleSort</logger>
+  <level>INFO</level>
+  <class>BubbleSort</class>
+  <method>getSortedArray</method>
+  <thread>1</thread>
+  <message>произошел обмен 23 и 45</message>
+</record>
+<record>
+  <date>2022-12-01T13:39:07.689736400Z</date>
+  <millis>1669901947689</millis>
+  <nanos>736400</nanos>
+  <sequence>16</sequence>
+  <logger>BubbleSort</logger>
+  <level>INFO</level>
+  <class>BubbleSort</class>
+  <method>getSortedArray</method>
+  <thread>1</thread>
+  <message>произошел обмен 1 и 79</message>
+</record>
+<record>
+  <date>2022-12-01T13:39:07.690736300Z</date>
+  <millis>1669901947690</millis>
+  <nanos>736300</nanos>
+  <sequence>17</sequence>
+  <logger>BubbleSort</logger>
+  <level>INFO</level>
+  <class>BubbleSort</class>
+  <method>getSortedArray</method>
+  <thread>1</thread>
+  <message>произошел обмен 0 и 10</message>
+</record>
+<record>
+  <date>2022-12-01T13:39:07.692734600Z</date>
+  <millis>1669901947692</millis>
+  <nanos>734600</nanos>
+  <sequence>18</sequence>
+  <logger>BubbleSort</logger>
+  <level>INFO</level>
+  <class>BubbleSort</class>
+  <method>getSortedArray</method>
+  <thread>1</thread>
+  <message>произошел обмен 1 и 46</message>
+</record>
+<record>
+  <date>2022-12-01T13:39:07.693734500Z</date>
+  <millis>1669901947693</millis>
+  <nanos>734500</nanos>
+  <sequence>19</sequence>
+  <logger>BubbleSort</logger>
+  <level>INFO</level>
+  <class>BubbleSort</class>
+  <method>getSortedArray</method>
+  <thread>1</thread>
+  <message>произошел обмен 0 и 5</message>
+</record>
+<record>
+  <date>2022-12-01T13:39:07.695734300Z</date>
+  <millis>1669901947695</millis>
+  <nanos>734300</nanos>
+  <sequence>20</sequence>
+  <logger>BubbleSort</logger>
+  <level>INFO</level>
+  <class>BubbleSort</class>
+  <method>getSortedArray</method>
+  <thread>1</thread>
+  <message>произошел обмен 1 и 45</message>
+</record>
+<record>
+  <date>2022-12-01T13:39:07.696732300Z</date>
+  <millis>1669901947696</millis>
+  <nanos>732300</nanos>
+  <sequence>21</sequence>
+  <logger>BubbleSort</logger>
+  <level>INFO</level>
+  <class>BubbleSort</class>
+  <method>getSortedArray</method>
+  <thread>1</thread>
+  <message>произошел обмен 0 и 3</message>
+</record>
+<record>
+  <date>2022-12-01T13:39:07.698730700Z</date>
+  <millis>1669901947698</millis>
+  <nanos>730700</nanos>
+  <sequence>22</sequence>
+  <logger>BubbleSort</logger>
+  <level>INFO</level>
+  <class>BubbleSort</class>
+  <method>getSortedArray</method>
+  <thread>1</thread>
+  <message>произошел обмен 1 и 23</message>
+</record>
+<record>
+  <date>2022-12-01T13:39:07.699730400Z</date>
+  <millis>1669901947699</millis>
+  <nanos>730400</nanos>
+  <sequence>23</sequence>
+  <logger>BubbleSort</logger>
+  <level>INFO</level>
+  <class>BubbleSort</class>
+  <method>getSortedArray</method>
+  <thread>1</thread>
+  <message>произошел обмен 0 и 1</message>
+</record>
+<record>
+  <date>2022-12-01T13:39:07.701731900Z</date>
+  <millis>1669901947701</millis>
+  <nanos>731900</nanos>
+  <sequence>24</sequence>
+  <logger>BubbleSort</logger>
+  <level>INFO</level>
+  <class>BubbleSort</class>
+  <method>getSortedArray</method>
+  <thread>1</thread>
+  <message>произошел обмен 1 и 23</message>
+</record>
+<record>
+  <date>2022-12-01T13:39:07.702731600Z</date>
+  <millis>1669901947702</millis>
+  <nanos>731600</nanos>
+  <sequence>25</sequence>
+  <logger>BubbleSort</logger>
+  <level>INFO</level>
+  <class>BubbleSort</class>
+  <method>getSortedArray</method>
+  <thread>1</thread>
+  <message>произошел обмен 1 и 12</message>
+</record>
+<record>
+  <date>2022-12-01T13:39:07.704726900Z</date>
+  <millis>1669901947704</millis>
+  <nanos>726900</nanos>
+  <sequence>26</sequence>
+  <logger>BubbleSort</logger>
+  <level>INFO</level>
+  <class>BubbleSort</class>
+  <method>getSortedArray</method>
+  <thread>1</thread>
+  <message>произошел обмен 1 и 10</message>
+</record>
+<record>
+  <date>2022-12-01T13:39:07.706726300Z</date>
+  <millis>1669901947706</millis>
+  <nanos>726300</nanos>
+  <sequence>27</sequence>
+  <logger>BubbleSort</logger>
+  <level>INFO</level>
+  <class>BubbleSort</class>
+  <method>getSortedArray</method>
+  <thread>1</thread>
+  <message>произошел обмен 1 и 5</message>
+</record>
+<record>
+  <date>2022-12-01T13:39:07.708724900Z</date>
+  <millis>1669901947708</millis>
+  <nanos>724900</nanos>
+  <sequence>28</sequence>
+  <logger>BubbleSort</logger>
+  <level>INFO</level>
+  <class>BubbleSort</class>
+  <method>getSortedArray</method>
+  <thread>1</thread>
+  <message>произошел обмен 1 и 3</message>
+</record>
+</log>
