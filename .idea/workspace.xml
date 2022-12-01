@@ -4,9 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f21fc681-8541-4c8f-b58f-d7e466aa4372" name="Changes" comment="SQL request">
+    <list default="true" id="f21fc681-8541-4c8f-b58f-d7e466aa4372" name="Changes" comment="SQL request final">
+      <change afterPath="$PROJECT_DIR$/BubbleSorting/BubbleSorting/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BubbleSorting/BubbleSorting/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BubbleSorting/BubbleSorting/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BubbleSorting/BubbleSorting/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BubbleSorting/BubbleSorting/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BubbleSorting/BubbleSorting/BubbleSorting.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BubbleSorting/BubbleSorting/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calculator/Calculator/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calculator/Calculator/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calculator/Calculator/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calculator/Calculator/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calculator/Calculator/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calculator/Calculator/Calculator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calculator/Calculator/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SqlRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SqlRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SQL_parsing/SQLPAsing/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SQL_parsing/SQLPAsing/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/parsingFile/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/parsingFile/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,16 +53,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/Программирование/JAVA_GEEK_BRAINS/Знакомство с java/java_homework/Seminar_2/json-simple-1.1.1.jar",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Программирование/JAVA_GEEK_BRAINS/Знакомство с java/java_homework/Seminar_2/json-simple-1.1.1.jar&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
@@ -81,7 +100,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669649490999</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="SQL request final">
+      <created>1669649972608</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1669649972608</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -98,6 +124,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Добавил задание и файлы" />
     <MESSAGE value="SQL request" />
-    <option name="LAST_COMMIT_MESSAGE" value="SQL request" />
+    <MESSAGE value="SQL request final" />
+    <option name="LAST_COMMIT_MESSAGE" value="SQL request final" />
   </component>
 </project>
