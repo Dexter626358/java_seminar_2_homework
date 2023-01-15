@@ -5,27 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f21fc681-8541-4c8f-b58f-d7e466aa4372" name="Changes" comment="SQL request final">
-      <change afterPath="$PROJECT_DIR$/BubbleSorting/BubbleSorting/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BubbleSorting/BubbleSorting/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BubbleSorting/BubbleSorting/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BubbleSorting/BubbleSorting/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BubbleSorting/BubbleSorting/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BubbleSorting/BubbleSorting/BubbleSorting.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BubbleSorting/BubbleSorting/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Calculator/Calculator/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Calculator/Calculator/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Calculator/Calculator/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Calculator/Calculator/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Calculator/Calculator/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Calculator/Calculator/Calculator.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Calculator/Calculator/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SQL_parsing/SQLPAsing/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SQL_parsing/SQLPAsing/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/parsingFile/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/parsingFile/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BubbleSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +20,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/parsingFile" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -107,7 +87,21 @@
       <option name="project" value="LOCAL" />
       <updated>1669649972608</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="SQL request final">
+      <created>1669908292033</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1669908292033</updated>
+    </task>
+    <task id="LOCAL-00005" summary="SQL request final">
+      <created>1669908357004</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1669908357004</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
